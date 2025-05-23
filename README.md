@@ -2,6 +2,11 @@
 
 This notebook was created for the purpose of analyzing the [**Amazon Sales Dataset**](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset). The objective is to explore consumer behavior insights that can help optimize product strategies and marketing efforts for sellers and businesses.
 
+## Contributors
+
+- Nguyen Khoi Nguyen
+- Nguyen Xuan Long
+
 ## 📌 Research Objectives
 
 The notebook aims to address the following key research questions:
